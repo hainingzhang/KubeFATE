@@ -1,4 +1,4 @@
-**Note**: The `master` branch may be in an *unstable* or *even broken* state during development. Please use [releases](https://github.com/FederatedAI/KubeFATE/releases) instead of the `master` branch in order to get a stable set of binaries.
+**Note**: The `master` branch is constantly in an *unstable* or *even broken* state during development. Please use [releases](https://github.com/FederatedAI/KubeFATE/releases) instead of the `master` branch in order to get a stable version.
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 # Overview
