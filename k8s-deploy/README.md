@@ -14,8 +14,8 @@ The hig-hlevel architecture of a multi-party federated learning deployment (e.g.
 * Kubernetes: Container orchestration engine.
 
 KubeFATE is responsible for:
-* Day 1 initialization: One executable binary to deploy a FATE cluster
-* Day 2 operations: Provides both executable binary and RESTful APIs to manage FATE clusters of a party
+* Day 1 initialization: Provision a FATE cluster on Kubernetes
+* Day 2 operations: Provides RESTful APIs to manage FATE clusters
 
 ## High-level architecture of KubeFATE
 The high-level architecture of KubeFATE is shwon as follows:

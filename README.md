@@ -33,10 +33,8 @@ KubeFATE
 For more details, please refer to [Kubernetes Deployment](./k8s-deploy/README.md).
 
 ## Building KubeFATE
-To use docker-deploy for the deployment via Docker Compose, make sure Docker Compose has been installed properly. 
-Refer to: [Docker Compose Deployment](./docker-deploy/README.md) for more details.
 
-To build the binary of KubeFATE , a Golang development environment is needed.
+To build the binary of KubeFATE, a Golang development environment is needed.
 
 ```
 $ git clone https://github.com/FederatedAI/KubeFATE.git
